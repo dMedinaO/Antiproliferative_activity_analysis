@@ -163,3 +163,15 @@ class AuxFunctions:
             out["Treatment"] = pd.Categorical(out["Treatment"], categories=present_treats, ordered=True)
             out = out.sort_values(["Enzyme", "Treatment"])
         return out
+
+    @classmethod
+    def normalize_columns(cls, df):
+        df = df.copy()
+        df.columns = (
+            df.columns
+            .str.strip()
+            .str.lower()
+            .str.replace(" ", "_")
+            .str.replace("-", "_")
+        )
+        return df
