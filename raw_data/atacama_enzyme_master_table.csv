@@ -1,0 +1,49 @@
+Isolate,Site,NaCl,pH,Halophily,Closest_Taxon,Genus,Phylum,Identity_Percent,Query_Coverage_Percent,Accession_Number,ASNase,GLNase,SDH,GO,ADI,MGL,Enzyme_Richness,Rare_Enzyme_Richness
+VL 1,Valle de la Luna,10,9,HA,Bacillus stercoris,Bacillus,Bacillota,98.24,100,NR_181952.1,1,0,0,0,1,0,2,0
+VL 2,Valle de la Luna,15,9,HM,Bacillus stercoris,Bacillus,Bacillota,98.41,100,NR_181952.1,1,1,1,1,1,0,5,2
+VL 3,Valle de la Luna,10,9,HA,Calidifontibacillus erzurumensis,Calidifontibacillus,Bacillota,96.94,100,NR_178988.1,1,1,0,0,1,0,3,0
+VL 4,Valle de la Luna,10,9,HA,Bacillus halotolerans,Bacillus,Bacillota,99.58,100,NR_115063.1,1,1,0,0,1,0,3,0
+VL 5,Valle de la Luna,10,9,HA,Bacillus inaquosorum,Bacillus,Bacillota,98.86,100,NR_104873.1,1,1,0,0,1,0,3,0
+VL 7,Valle de la Luna,10,9,HA,Bacillus stercoris,Bacillus,Bacillota,99.12,100,NR_181952.1,1,0,1,0,1,0,3,1
+VL 8,Valle de la Luna,10,7,HA,Bacillus halotolerans,Bacillus,Bacillota,98.13,100,NR_115063.1,1,0,1,0,1,0,3,1
+VL 10,Valle de la Luna,15,7,HM,Bacillus spizizenii,Bacillus,Bacillota,99.93,100,NR_112686.1,1,0,1,0,1,0,3,1
+VL 11,Valle de la Luna,15,7,HM,Bacillus spizizenii,Bacillus,Bacillota,100.0,100,NR_112686.1,1,0,0,0,1,0,2,0
+VL 12,Valle de la Luna,15,7,HM,Bacillus rugosus,Bacillus,Bacillota,98.9,100,NR_181236.1,1,0,0,0,1,0,2,0
+VL 13,Valle de la Luna,10,7,HA,Bacillus rugosus,Bacillus,Bacillota,99.86,100,NR_181236.1,1,0,0,1,1,0,3,1
+VL 14,Valle de la Luna,10,9,HA,Bacillus spizizenii,Bacillus,Bacillota,99.72,100,NR_112686.1,1,1,1,1,1,1,6,3
+VL 16,Valle de la Luna,10,9,HA,Bacillus rugosus,Bacillus,Bacillota,99.79,100,NR_181236.1,1,1,0,1,1,0,4,1
+VL 17,Valle de la Luna,10,9,HA,Bacillus rugosus,Bacillus,Bacillota,100.0,100,NR_181236.1,1,1,0,1,1,0,4,1
+VL 20,Valle de la Luna,15,7,HM,Bacillus rugosus,Bacillus,Bacillota,100.0,100,NR_181236.1,1,1,0,1,1,0,4,1
+VL 21,Valle de la Luna,15,7,HM,Bacillus tequilensis,Bacillus,Bacillota,98.17,100,NR_104919.1,1,1,0,1,1,0,4,1
+VL 22,Valle de la Luna,15,7,HM,Bacillus rugosus,Bacillus,Bacillota,99.93,100,NR_181236.1,1,1,0,1,1,0,4,1
+VL 23,Valle de la Luna,15,7,HM,Bacillus spizizenii,Bacillus,Bacillota,99.86,100,NR_112686.1,1,1,0,1,1,0,4,1
+VL 24,Valle de la Luna,15,7,HM,Bacillus rugosus,Bacillus,Bacillota,99.86,100,NR_181236.1,1,1,0,0,1,0,3,0
+VL 25,Valle de la Luna,15,7,HM,Bacillus spizizenii,Bacillus,Bacillota,99.79,100,NR_112686.1,1,1,0,0,1,0,3,0
+VL 26,Valle de la Luna,15,7,HM,Bacillus spizizenii,Bacillus,Bacillota,99.93,100,NR_112686.1,1,1,0,0,1,1,4,1
+VL 27,Valle de la Luna,15,7,HM,Bacillus rugosus,Bacillus,Bacillota,99.79,100,NR_181236.1,1,0,0,0,1,1,3,1
+VL 28,Valle de la Luna,15,7,HM,Bacillus tequilensis,Bacillus,Bacillota,96.74,100,NR_104919.1,1,1,0,1,1,0,4,1
+VL 29,Valle de la Luna,15,7,HM,Bacillus rugosus,Bacillus,Bacillota,100.0,100,NR_181236.1,1,0,0,1,1,0,3,1
+VL 30,Valle de la Luna,10,7,HA,Bacillus rugosus,Bacillus,Bacillota,99.72,100,NR_181236.1,1,0,0,1,1,0,3,1
+VL 31,Valle de la Luna,10,7,HA,Bacillus spizizenii,Bacillus,Bacillota,99.59,100,NR_112686.1,1,0,0,0,1,0,2,0
+VL 32,Valle de la Luna,10,7,HA,Bacillus spizizenii,Bacillus,Bacillota,99.38,100,NR_112686.1,1,0,0,0,1,0,2,0
+VL 33,Valle de la Luna,10,7,HA,Bacillus rugosus,Bacillus,Bacillota,99.17,100,NR_181236.1,1,0,0,1,1,1,4,2
+VL 34,Valle de la Luna,10,9,HA,Bacillus rugosus,Bacillus,Bacillota,99.86,100,NR_181236.1,1,0,0,1,1,0,3,1
+VL 35,Valle de la Luna,10,9,HA,Bacillus rugosus,Bacillus,Bacillota,99.72,100,NR_181236.1,1,1,0,0,1,1,4,1
+VL 36,Valle de la Luna,10,7,HA,Bacillus spizizenii,Bacillus,Bacillota,99.03,100,NR_112686.1,1,0,0,0,1,0,2,0
+VL 37,Valle de la Luna,10,7,HA,Bacillus spizizenii,Bacillus,Bacillota,99.72,100,NR_112686.1,1,0,0,0,1,0,2,0
+VL 38,Valle de la Luna,10,7,HA,Bacillus rugosus,Bacillus,Bacillota,99.79,100,NR_181236.1,1,0,0,0,1,0,2,0
+VL 39,Valle de la Luna,10,7,HA,Bacillus spizizenii,Bacillus,Bacillota,99.38,100,NR_112686.1,1,0,0,0,1,0,2,0
+VL 40,Valle de la Luna,10,7,HA,Bacillus spizizenii,Bacillus,Bacillota,99.24,100,NR_112686.1,1,0,0,0,1,1,3,1
+VL 41,Valle de la Luna,10,7,HA,Bacillus spizizenii,Bacillus,Bacillota,99.65,100,NR_112686.1,1,0,0,1,1,0,3,1
+VL 42,Valle de la Luna,15,7,HM,Bacillus halotolerans,Bacillus,Bacillota,99.73,100,NR_115063.1,1,0,0,0,1,0,2,0
+ST 1,Salar de Tara,20,7,HE,Salibacterium salarium,Salibacterium,Bacillota,98.62,94,NR_043082.1,1,0,0,1,1,0,3,1
+ST 2,Salar de Tara,20,7,HE,Salibacterium salarium,Salibacterium,Bacillota,98.48,94,NR_043082.1,1,1,0,0,1,0,3,0
+ST 3,Salar de Tara,20,7,HE,Salibacterium salarium,Salibacterium,Bacillota,98.62,94,NR_043082.1,1,1,0,0,1,0,3,0
+ST 4,Salar de Tara,20,7,HE,Salibacterium salarium,Salibacterium,Bacillota,98.62,95,NR_043082.1,1,0,0,0,1,0,2,0
+ST 5,Salar de Tara,20,7,HE,Salibacterium salarium,Salibacterium,Bacillota,98.69,94,NR_043082.1,1,1,0,0,1,0,3,0
+ST 6,Salar de Tara,20,7,HE,Salibacterium salarium,Salibacterium,Bacillota,98.48,94,NR_043082.1,1,0,0,1,1,0,3,1
+ST 7,Salar de Tara,20,7,HE,Salibacterium salarium,Salibacterium,Bacillota,98.69,94,NR_043082.1,1,1,0,0,1,0,3,0
+ST 8,Salar de Tara,20,7,HE,Salibacterium salarium,Salibacterium,Bacillota,98.55,94,NR_043082.1,1,1,0,0,1,0,3,0
+ST 9,Salar de Tara,20,7,HE,Salibacterium salarium,Salibacterium,Bacillota,98.69,95,NR_043082.1,1,1,0,0,1,0,3,0
+ST 10,Salar de Tara,20,7,HE,Salibacterium salarium,Salibacterium,Bacillota,98.48,94,NR_043082.1,1,1,0,0,1,0,3,0
+ST 11,Salar de Tara,20,7,HE,Salibacterium salarium,Salibacterium,Bacillota,98.73,94,NR_043082.1,1,1,0,0,1,0,3,0
