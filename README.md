@@ -72,7 +72,7 @@ conda activate antiproliferative_activity_analysis
 
 ---
 
-## ▶How to Run the Analysis
+## How to Run the Analysis
 
 All notebooks are designed to be executed **sequentially**.
 
@@ -151,11 +151,9 @@ See the `LICENSE` file for details.
 
 If you use or adapt this workflow for academic purposes, please cite the associated manuscript or acknowledge the repository.
 
-listo papi — abajo te dejo **la sección de Contact** para **agregar tal cual al README**, escrita en tono académico, clara y estándar para repos científicos. Dejé **campos explícitos** para que completes correos/afiliaciones sin ambigüedades.
-
 ---
 
-## 📬 Contact
+## Contact
 
 For questions related to the **experimental data**, **biological interpretation**, or **manuscript content**, please contact:
 
